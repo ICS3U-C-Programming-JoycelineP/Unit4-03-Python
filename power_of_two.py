@@ -2,12 +2,11 @@
 # Created By: Joyceline
 # Created on: November 16, 2026
 # This program asks the user for a positive whole number
-# and calculates the squares from 0 up to that number using a for loop.
+# and calculates the squares from 0 up to that number.
 
 
 def main():
     # initializing variables
-    number = 0
     square = 0
 
     # Get the user's number
